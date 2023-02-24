@@ -1,0 +1,21 @@
+.thirdmodel,
+.secondmodel,
+.firstmodel{
+    width: 400px;
+    background-color: #eee;
+    padding: 20px;
+    margin: 20px;
+}
+
+.firstmodel{
+    border-left: 8px solid rgb(181, 29, 105);
+    outline: 10px solid #eee;
+}
+.secondmodel{
+    visibility: hidden;
+}
+.thirdmodel{
+    border-left: 8px solid green;
+    outline: 10px solid #eee;
+
+}

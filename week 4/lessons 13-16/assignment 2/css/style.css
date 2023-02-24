@@ -1,0 +1,11 @@
+.titleone,
+.titletwo,
+.titlethree,
+.titlefour{
+    max-width: 400px;
+    margin: 20px;
+    padding: 15px;
+    background-color: rgb(145, 9, 9);
+    height: 20px;
+    overflow: auto;
+}
