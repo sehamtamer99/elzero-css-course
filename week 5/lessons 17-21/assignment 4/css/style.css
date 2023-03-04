@@ -1,0 +1,13 @@
+a {
+    padding: 10px;
+    background-color: lightseagreen;
+    display: block;
+    border-bottom:5px rgb(32, 113, 81) solid;
+    margin: auto;
+    text-decoration: none;
+    color: white;
+    text-transform: capitalize;
+    width: fit-content;
+    
+}
+

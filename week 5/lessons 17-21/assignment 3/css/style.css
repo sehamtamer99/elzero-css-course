@@ -1,0 +1,16 @@
+div{
+    background-color: #eee;
+    width: 400px;
+    margin: 40px;
+    padding: 25px;
+}
+
+.secondexample{
+    overflow: hidden; 
+    white-space: nowrap;
+}
+.thirdexample{
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+} 

@@ -1,0 +1,11 @@
+div{
+    padding: 40px;
+    border: 5px solid orange;
+}
+div p{
+    background-color: #eee;
+    font-size: 20px;
+    text-align: center;
+    border: inherit;
+    padding: inherit;
+}

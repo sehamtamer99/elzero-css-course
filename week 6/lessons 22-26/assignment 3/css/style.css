@@ -1,0 +1,16 @@
+.one,
+.two,
+.three{
+    padding: 20px;
+    margin: 40px;
+    text-align: center;
+}
+.one{
+    font-size: 2.5rem;
+}
+.two{
+    font-size:2rem ;
+}
+.three{
+    font-size: 1.5rem;
+}
